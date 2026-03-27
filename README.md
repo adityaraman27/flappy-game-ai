@@ -19,7 +19,7 @@ This project explores how machine learning, specifically neuroevolution, can be 
 
 
 
-## 💡 Solution Approach
+##  Solution Approach
 
 The solution uses the NEAT algorithm to evolve neural networks that control the bird's actions.
 
