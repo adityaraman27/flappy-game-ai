@@ -187,7 +187,7 @@ def eval_genomes(genomes, config):
 
         draw_window(WIN, birds, pipes, score, GEN)
 
-    # ✅ GRAPH SCORE (NOT FITNESS)
+  
     print(f"Generation {GEN} Score: {score}")
     score_history.append(score)
 
