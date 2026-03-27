@@ -173,7 +173,7 @@ def eval_genomes(genomes, config):
         if add_pipe:
             score += 1
             for g in ge:
-                g.fitness += 5   # ❗ reward passing pipe
+                g.fitness += 5  
             pipes.append(Pipe(600))
 
         for r in rem:
