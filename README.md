@@ -35,9 +35,9 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 1. A population of birds is created.
 2. Each bird is controlled by a neural network.
 3. Birds receive inputs like:
-
    * Bird's vertical position
    * Distance from pipe gap
+     
 4. Based on outputs, the bird decides whether to jump.
 5. Fitness is assigned based on:
 
