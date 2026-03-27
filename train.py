@@ -30,7 +30,6 @@ BG_IMG = load_and_scale("bg.png", (500, 800))
 
 FONT = pygame.font.SysFont("comicsans", 40)
 
-# -------- BIRD --------
 class Bird:
     def __init__(self):
         self.x = 100
