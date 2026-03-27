@@ -74,7 +74,7 @@ class Pipe:
         bottom_rect = pygame.Rect(self.x, self.bottom, 80, WIN_HEIGHT)
         return bird_rect.colliderect(top_rect) or bird_rect.colliderect(bottom_rect)
 
-# -------- DRAW --------
+
 def draw_window(win, birds, pipes, score, gen):
     if BG_IMG:
         win.blit(BG_IMG, (0, 0))
@@ -95,7 +95,6 @@ def draw_window(win, birds, pipes, score, gen):
 
     pygame.display.update()
 
-# -------- NEAT --------
 def eval_genomes(genomes, config):
     global GEN, score_history
     GEN += 1
