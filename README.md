@@ -65,7 +65,7 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 * NEAT-Python
 * Matplotlib
 
---
+-
 
 ## 📂 Project Structure
 
