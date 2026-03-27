@@ -132,7 +132,7 @@ def eval_genomes(genomes, config):
         for i, bird in enumerate(birds):
             bird.move()
 
-            # ✅ Survival reward
+            
             ge[i].fitness += 0.1
 
             pipe = pipes[pipe_ind]
