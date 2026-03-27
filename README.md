@@ -134,17 +134,10 @@ python train.py
 * Deploy as a web-based game
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how AI can learn complex behaviors through evolution rather than explicit programming. It highlights the power of combining machine learning with game development.
 
----
-
-## 👨‍💻 Author
-
-Aditya Raman
-
----
 
 ## ⭐ Acknowledgment
 
