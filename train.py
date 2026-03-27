@@ -146,7 +146,7 @@ def eval_genomes(genomes, config):
 
             output = nets[i].activate(inputs)
 
-            # ✅ Controlled jumping
+           
             if output[0] > 0.7:
                 bird.jump()
 
