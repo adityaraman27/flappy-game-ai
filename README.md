@@ -54,7 +54,7 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 *  Live training graph (Score vs Generation)
 *  Real-time game simulation
 *  Lightweight and fast training
-* 🧬 Evolution-based learning using NEAT
+*  Evolution-based learning using NEAT
 
 ---
 
