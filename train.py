@@ -158,7 +158,7 @@ def eval_genomes(genomes, config):
 
             for i in reversed(range(len(birds))):
                 if pipe.collide(birds[i]):
-                    ge[i].fitness -= 1   # ❗ strong penalty
+                    ge[i].fitness -= 1   
                     birds.pop(i)
                     nets.pop(i)
                     ge.pop(i)
