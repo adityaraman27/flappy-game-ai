@@ -13,7 +13,7 @@ Instead of manually coding rules, the AI evolves over generations and improves i
 
 Flappy Bird is a simple yet challenging game that requires precise timing and decision-making. The problem addressed in this project is:
 
-> **Can an AI agent learn to play Flappy Bird efficiently without being explicitly programmed?**
+*Can an AI agent learn to play Flappy Bird efficiently without being explicitly programmed?
 
 This project explores how machine learning, specifically neuroevolution, can be applied to solve real-time decision-making problems.
 
