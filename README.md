@@ -9,7 +9,7 @@ Instead of manually coding rules, the AI evolves over generations and improves i
 
 
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Flappy Bird is a simple yet challenging game that requires precise timing and decision-making. The problem addressed in this project is:
 
