@@ -74,11 +74,10 @@ FLAPPY/
 │── neat_config.txt   
 │── bird.png          
 │── pipe.png          
-│── bg.png            # Background image
-│── README.md         # Project documentation
+│── bg.png            
+│── README.md         
 
 
----
 
 ## ⚙️ Installation & Setup
 
