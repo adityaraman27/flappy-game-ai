@@ -3,7 +3,7 @@
 
 ##  Project Overview
 
-This project is an implementation of an Artificial Intelligence agent that learns to play the Flappy Bird game using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm.
+This project is an implementation of an Artificial Intelligence agent that learns to play the Flappy Bird game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 
 Instead of manually coding rules, the AI evolves over generations and improves its performance by learning how to avoid obstacles and maximize score.
 
