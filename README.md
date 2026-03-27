@@ -56,7 +56,7 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 *  Lightweight and fast training
 *  Evolution-based learning using NEAT
 
---
+-
 
 ## 🛠️ Technologies Used
 
