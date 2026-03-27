@@ -139,6 +139,3 @@ python train.py
 This project demonstrates how AI can learn complex behaviors through evolution rather than explicit programming. It highlights the power of combining machine learning with game development.
 
 
-## ⭐ Acknowledgment
-
-This project was developed as part of the **Bring Your Own Project (BYOP)** under the course *Fundamentals of AI and ML*.
