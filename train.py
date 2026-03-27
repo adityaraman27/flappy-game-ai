@@ -137,7 +137,7 @@ def eval_genomes(genomes, config):
 
             pipe = pipes[pipe_ind]
 
-            # ✅ NORMALIZED INPUTS (VERY IMPORTANT)
+           
             inputs = (
                 bird.y / WIN_HEIGHT,
                 (pipe.height - bird.y) / WIN_HEIGHT,
