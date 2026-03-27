@@ -17,7 +17,6 @@ pygame.init()
 WIN = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 pygame.display.set_caption("Flappy AI")
 
-# -------- IMAGE LOADING --------
 def load_and_scale(name, size):
     path = os.path.join(os.path.dirname(__file__), name)
     if os.path.exists(path):
