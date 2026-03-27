@@ -1,7 +1,7 @@
 
 #  Flappy Bird AI 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an implementation of an Artificial Intelligence agent that learns to play the Flappy Bird game using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm.
 
