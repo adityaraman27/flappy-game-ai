@@ -39,10 +39,11 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
    * Distance from pipe gap
      
 4. Based on outputs, the bird decides whether to jump.
+   
 5. Fitness is assigned based on:
-
    * Survival time
    * Pipes successfully passed
+   * 
 6. The best-performing birds evolve into the next generation.
 
 ---
