@@ -67,9 +67,8 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
-```
 FLAPPY/
 │── train.py          # Main training script
 │── neat_config.txt   # NEAT configuration file
@@ -77,7 +76,7 @@ FLAPPY/
 │── pipe.png          # Pipe image
 │── bg.png            # Background image
 │── README.md         # Project documentation
-```
+
 
 ---
 
