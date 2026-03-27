@@ -1,4 +1,4 @@
-# flappy-game-ai
+
 # 🐦 Flappy Bird AI using NEAT
 
 ## 📌 Project Overview
