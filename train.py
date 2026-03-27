@@ -198,7 +198,7 @@ def eval_genomes(genomes, config):
     plt.title("Training Progress")
     plt.pause(0.01)
 
-# -------- RUN --------
+
 def run(config_path):
     config = neat.config.Config(
         neat.DefaultGenome,
