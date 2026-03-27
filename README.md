@@ -7,7 +7,7 @@ This project is an implementation of an Artificial Intelligence agent that learn
 
 Instead of manually coding rules, the AI evolves over generations and improves its performance by learning how to avoid obstacles and maximize score.
 
----
+
 
 ## 🎯 Problem Statement
 
