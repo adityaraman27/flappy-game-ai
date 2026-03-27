@@ -90,13 +90,9 @@ cd flappy-ai
 
 pip install pygame neat-python matplotlib
 
-### 3. Run the Project
+3. Run the Project 
 
-```bash
 python train.py
-```
-
----
 
 ## ▶️ How to Use
 
