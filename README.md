@@ -86,11 +86,9 @@ FLAPPY/
 git clone https://github.com/your-username/flappy-ai.git
 cd flappy-ai
 
-### 2. Install Dependencies
+ 2. Install Dependencies
 
-```bash
 pip install pygame neat-python matplotlib
-```
 
 ### 3. Run the Project
 
