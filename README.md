@@ -51,7 +51,7 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 ##  Features
 
 *  AI learns automatically (no hardcoding)
-* 📈 Live training graph (Score vs Generation)
+*  Live training graph (Score vs Generation)
 * 🎮 Real-time game simulation
 * ⚡ Lightweight and fast training
 * 🧬 Evolution-based learning using NEAT
