@@ -72,8 +72,8 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 FLAPPY/
 │── train.py          
 │── neat_config.txt   
-│── bird.png          # Bird image
-│── pipe.png          # Pipe image
+│── bird.png          
+│── pipe.png          
 │── bg.png            # Background image
 │── README.md         # Project documentation
 
