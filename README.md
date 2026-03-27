@@ -43,7 +43,7 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 5. Fitness is assigned based on:
    * Survival time
    * Pipes successfully passed
-   * 
+     
 6. The best-performing birds evolve into the next generation.
 
 ---
