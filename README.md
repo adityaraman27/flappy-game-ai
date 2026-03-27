@@ -48,7 +48,7 @@ The solution uses the NEAT algorithm to evolve neural networks that control the 
 
 
 
-## 🧠 Features
+##  Features
 
 * ✅ AI learns automatically (no hardcoding)
 * 📈 Live training graph (Score vs Generation)
