@@ -49,7 +49,7 @@ class Bird:
         else:
             pygame.draw.circle(win, (255, 0, 0), (int(self.x), int(self.y)), 10)
 
-# -------- PIPE --------
+
 class Pipe:
     def __init__(self, x):
         self.x = x
