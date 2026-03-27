@@ -79,14 +79,12 @@ FLAPPY/
 
 
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/flappy-ai.git
 cd flappy-ai
-```
 
 ### 2. Install Dependencies
 
