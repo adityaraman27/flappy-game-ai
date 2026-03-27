@@ -1,5 +1,5 @@
 
-# 🐦 Flappy Bird AI using NEAT
+#  Flappy Bird AI 
 
 ## 📌 Project Overview
 
