@@ -94,14 +94,13 @@ pip install pygame neat-python matplotlib
 
 python train.py
 
-## ▶️ How to Use
+##  How to Use
 
 * Run the script and the training will start automatically.
 * A game window will open showing birds playing.
 * A graph window will display training progress.
 * Over time, the AI improves and achieves higher scores.
 
----
 
 ## 📊 Output
 
