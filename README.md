@@ -102,22 +102,21 @@ python train.py
 * Over time, the AI improves and achieves higher scores.
 
 
-## 📊 Output
+## Output
 
 * Real-time gameplay window
 * Training graph showing improvement
 * Console logs of generation-wise scores
 
----
 
-## 🚧 Challenges Faced
+##  Challenges Faced
 
 * Initial AI behavior was random and ineffective
 * Fitness function tuning was required
 * Graph visualization issues during training
 * Balancing game difficulty for learning
 
----
+
 
 ## 📈 Learning Outcomes
 
