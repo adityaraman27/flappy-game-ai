@@ -104,7 +104,7 @@ class FlappyGame:
                 self.alive[i] = False
                 rewards[i] = -1
 
-            # Score
+            
             for pipe in self.pipes:
                 if pipe.x + pipe.width < bird.x and not hasattr(pipe, f"passed_{i}"):
                     setattr(pipe, f"passed_{i}", True)
