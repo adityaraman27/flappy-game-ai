@@ -99,7 +99,7 @@ class FlappyGame:
                     self.alive[i] = False
                     rewards[i] = -1
 
-            # Ground/ceiling
+            
             if bird.y + bird.height >= H or bird.y <= 0:
                 self.alive[i] = False
                 rewards[i] = -1
