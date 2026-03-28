@@ -93,7 +93,7 @@ class FlappyGame:
             bird.move()
             rewards[i] += 0.02
 
-            # Collision
+            
             for pipe in self.pipes:
                 if pipe.collide(bird):
                     self.alive[i] = False
