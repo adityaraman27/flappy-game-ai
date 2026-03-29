@@ -70,7 +70,7 @@ FLAPPY/
 │── bird.png          
 │── pipe.png          
 │── bg.png            
-│── README.md         
+│── README.md        
 
 
 
