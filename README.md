@@ -93,7 +93,7 @@ python train.py
 
 * Run the script and the training will start automatically.
 * A game window will open showing birds playing.
-* A graph window will display training progress.
+*  A graph window will open showing training progress.
 * Over time, the AI improves and achieves higher scores.
 
 
