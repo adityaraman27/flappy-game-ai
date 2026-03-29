@@ -10,7 +10,11 @@ The AI agent does not require any rules to be hardcoded; instead, it uses evolut
 
 ## Problem Statement
 
+The Flappy Bird game is a simple game but requires a good level of intelligence to be played. The problem being solved in this project is:
 
+Can an AI agent learn how to play Flappy Bird efficiently without being explicitly programmed?
+
+This project focuses on how machine learning, specifically 
 
 ##  Solution Approach
 
