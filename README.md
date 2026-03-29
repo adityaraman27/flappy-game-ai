@@ -43,13 +43,13 @@ The solution involves using the NEAT algorithm to evolve neural networks that co
 
 
 
-##  Features
+## Features
 
-*  AI learns automatically (no hardcoding)
-*  Live training graph (Score vs Generation)
-*  Real-time game simulation
-*  Lightweight and fast training
-*  Evolution-based learning using NEAT
+*   AI learns by itself (no hardcoding)
+*   Live training graph (Score vs Generation)
+*   Real-time game simulation
+*   Lightweight and fast training
+*   Evolutionary learning using NEAT
 
 
 
