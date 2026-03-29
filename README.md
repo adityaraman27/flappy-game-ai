@@ -2,20 +2,13 @@
 #  Flappy Bird AI 
 
 ##  Project Overview
+This project involves the implementation of an Artificial Intelligence agent that is able to learn how to play the Flappy Bird game using the NEAT algorithm.
 
-This project is an implementation of an Artificial Intelligence agent that learns to play the Flappy Bird game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
-
-Instead of manually coding rules, the AI evolves over generations and improves its performance by learning how to avoid obstacles and maximize score.
-
+The AI agent does not require any rules to be hardcoded; instead, it uses evolution to improve its performance by learning how to avoid obstacles and maximize scores.
 
 
-##  Problem Statement
 
-Flappy Bird is a simple yet challenging game that requires precise timing and decision-making. The problem addressed in this project is:
-
-Can an AI agent learn to play Flappy Bird efficiently without being explicitly programmed?
-
-This project explores how machine learning, specifically neuroevolution, can be applied to solve real-time decision-making problems.
+## Problem Statement
 
 
 
