@@ -107,9 +107,9 @@ python train.py
 ##  Challenges Faced
 
 * Initial AI behavior was random and ineffective
-* Fitness function tuning was required
-* Graph visualization issues during training
-* Balancing game difficulty for learning
+* Tuning of fitness function
+* Problems in graph visualization
+* Difficulty in balancing game difficulty for AI to learn
 
 
 
