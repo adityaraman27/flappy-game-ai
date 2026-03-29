@@ -63,7 +63,7 @@ The solution for this problem is the use of the NEAT algorithm, which can be use
 
 ##  Project Structure
 
-###FLAPPY
+### FLAPPY
 ─ train.py          
 ─ neat_config.txt   
 ─ bird.png          
@@ -90,11 +90,10 @@ python train.py
 
 ##  How to Use
 
-* Run the script and the training will start automatically.
-* A game window will open showing birds playing.
-*  A graph window will open showing training progress.
-* Over time, the AI improves and achieves higher scores.
-
+* To run the project, execute the script. The training process will automatically begin.
+*   A game window will pop up displaying birds playing the game.
+*   A graph window will pop up displaying the training process.
+*   Over time, the AI becomes better at playing the game, achieving high scores.
 
 ## Output
 
@@ -119,16 +118,14 @@ python train.py
 * Real-time training visualization
 * Debugging and optimizing AI systems
 
-
 ##  Future Improvements
 
-* Ability to save and replay the best trained model
+* The ability to save and replay the best trained model
 * Sound effects and better UI
 * Optimization of training speed
 
 
 ##  Conclusion
 
-This project demonstrates how AI can learn complex behaviors through evolution rather than explicit programming. It highlights the power of combining machine learning with game development.
-
+This project has demonstrated how AI can be trained to perform complex behaviors using evolution instead of programming. The power of using machine learning and game development has been demonstrated.
 
