@@ -2,23 +2,22 @@
 #  Flappy Bird AI 
 
 ##  Project Overview
-This project involves the implementation of an Artificial Intelligence agent that is able to learn how to play the Flappy Bird game using the NEAT algorithm.
+This project entails the development of a program that incorporates an Artificial Intelligence agent that can learn how to play the Flappy Bird game using the NEAT algorithm.
 
-The AI agent does not require any rules to be hardcoded; instead, it uses evolution to improve its performance by learning how to avoid obstacles and maximize scores.
+The AI agent does not require any rules to be hardcoded. The AI agent learns how to play the Flappy Bird game by improving its performance through evolution.
 
 
+##  Problem Statement
 
-## Problem Statement
+The Flappy Bird game is a simple game, but it requires a good level of intelligence to be played. The problem being solved by this project is as follows:
 
-The Flappy Bird game is a simple game but requires a good level of intelligence to be played. The problem being solved in this project is:
+Can an AI agent learn how to play the Flappy Bird game efficiently without being explicitly programmed?
 
-Can an AI agent learn how to play Flappy Bird efficiently without being explicitly programmed?
-
-This project focuses on how machine learning, specifically 
+This project is focused on showing how a machine learning, specifically 
 
 ##  Solution Approach
 
-The solution involves using the NEAT algorithm to evolve neural networks that control the bird's actions.
+The solution for this problem is the use of the NEAT algorithm, which can be used for evolving a neural network.
 
 ### Key Concepts Used:
 
@@ -30,14 +29,14 @@ The solution involves using the NEAT algorithm to evolve neural networks that co
 ### How it Works:
 
 1. Population of birds is created.
-2. Each bird is controlled using a neural network.
-3. Each bird receives inputs such as:
+2. Each bird is controlled by a neural network.
+3. Each bird receives a set of inputs:
    * Bird's vertical position
    * Distance from pipe gap
      
-4. Based on this information, the bird determines whether to jump or not.
+4. Based on this information, the bird decides to jump or not.
    
-5. Each bird is assigned fitness points based on:
+5. Each bird is given fitness points based on:
    * Survival time
    * Number of pipes passed
 
@@ -45,32 +44,32 @@ The solution involves using the NEAT algorithm to evolve neural networks that co
 
 ## Features
 
-*   AI learns by itself (no hardcoding)
-*   Live training graph (Score vs Generation)
-*   Real-time game simulation
-*   Lightweight and fast training
-*   Evolutionary learning using NEAT
+*   AI learns by itself (No Hard Coding)
+*   Live Training Graph (Score vs Generation)
+*   Real Time Game Simulation
+*   Lightweight and Fast Training
+*   Evolutionary Learning using NEAT
 
 
 
 ##  Technologies Used
 
-* Python
-* Pygame
-* NEAT-Python
-* Matplotlib
+*   Python
+*   Pygame
+*   NEAT-Python
+*   Matplotlib
 
 
 
 ##  Project Structure
 
-FLAPPY/
-│── train.py          
-│── neat_config.txt   
-│── bird.png          
-│── pipe.png          
-│── bg.png            
-│── README.md        
+###FLAPPY
+─ train.py          
+─ neat_config.txt   
+─ bird.png          
+─ pipe.png          
+─ bg.png            
+─ README.md        
 
 
 
