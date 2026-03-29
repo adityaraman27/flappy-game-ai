@@ -115,10 +115,10 @@ python train.py
 
 ##  Learning Outcomes
 
-* Understanding of NEAT algorithm
-* Practical implementation of AI in games
-* Experience with real-time training visualization
-* Debugging and optimizing ML systems
+* Knowledge of NEAT algorithm
+* Practical experience in implementing AI in games
+* Real-time training visualization
+* Debugging and optimizing AI systems
 
 
 ##  Future Improvements
