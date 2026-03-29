@@ -123,10 +123,9 @@ python train.py
 
 ##  Future Improvements
 
-* Save and replay the best trained model
-* Add sound effects and better UI
-* Optimize training speed
-* Deploy as a web-based game
+* Ability to save and replay the best trained model
+* Sound effects and better UI
+* Optimization of training speed
 
 
 ##  Conclusion
