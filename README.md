@@ -18,30 +18,28 @@ This project focuses on how machine learning, specifically
 
 ##  Solution Approach
 
-The solution uses the NEAT algorithm to evolve neural networks that control the bird's actions.
+The solution involves using the NEAT algorithm to evolve neural networks that control the bird's actions.
 
 ### Key Concepts Used:
 
 * Neural Networks
 * Genetic Algorithms
-* Reinforcement Learning (reward-based learning)
+* Reinforcement Learning (Reward-Based Learning)
 * Game Simulation using Pygame
-
+  
 ### How it Works:
 
-1. A population of birds is created.
-2. Each bird is controlled by a neural network.
-3. Birds receive inputs like:
+1. Population of birds is created.
+2. Each bird is controlled using a neural network.
+3. Each bird receives inputs such as:
    * Bird's vertical position
    * Distance from pipe gap
      
-4. Based on outputs, the bird decides whether to jump.
+4. Based on this information, the bird determines whether to jump or not.
    
-5. Fitness is assigned based on:
+5. Each bird is assigned fitness points based on:
    * Survival time
-   * Pipes successfully passed
-     
-6. The best-performing birds evolve into the next generation.
+   * Number of pipes passed
 
 
 
