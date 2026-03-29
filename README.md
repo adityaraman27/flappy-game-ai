@@ -99,9 +99,9 @@ python train.py
 
 ## Output
 
-* Real-time gameplay window
-* Training graph showing improvement
-* Console logs of generation-wise scores
+* Real-time game play window
+* Training graph indicating improvement
+* Console output for generation-wise scores
 
 
 ##  Challenges Faced
