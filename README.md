@@ -101,6 +101,9 @@ python train.py
 * Training graph indicating improvement
 * Console output for generation-wise scores
 
+## Output Screenshots 
+
+<img width="608" height="1012" alt="flappy" src="https://github.com/user-attachments/assets/82dbdac9-15df-46fc-8269-bfcc87a4ec3d" />
 
 ##  Challenges Faced
 
